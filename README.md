@@ -58,6 +58,10 @@ JUMBO BAG RED RETROSPOT
 PARTY BUNTING
 VICTORIAN GLASS HANGING T-LIGHT
 
+**How to View the Project**
+- Open the [Market Basket Analysis Notebook](code_file/Market_Basket_Analysis.ipynb) directly on GitHub.
+- The notebook contains all outputs and visualizations.
+
 **Future Enhancements**
 
 Add personalized recommendations based on customer purchase history.
